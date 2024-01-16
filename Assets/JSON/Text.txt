@@ -1,0 +1,41 @@
+[{
+    "objectName": " object1",
+    "objectType": "Panel",
+    "sortingOrder": 0,
+    "position": {
+        "x": -50,
+        "y": 50
+    },
+    "size": {
+        "x": 50,
+        "y": 50
+    },
+    "objectColor": {
+        "r": 0.8,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 1
+    }
+},
+{
+    "objectName": "object2",
+    "objectType": "Panel",
+    "orderinlayer": 2,
+    "position": {
+        "x": 50,
+        "y": 50
+    },
+    "size": {
+        "x": 50,
+        "y": 50
+    },
+    "objectColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+    }
+}
+
+
+]
